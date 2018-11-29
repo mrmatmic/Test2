@@ -8,3 +8,4 @@ wprowadzam zmiany
 IHIHIHIHIHIH
 koniec testu
 hhjhh
+abcd
