@@ -6,4 +6,5 @@ wprowadzam zmiany
 3
 4
 IHIHIHIHIHIH
+koniec testu
 
