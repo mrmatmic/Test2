@@ -8,3 +8,4 @@ wprowadzam zmiany
 IHIHIHIHIHIH
 koniec testu
 
+Chyba nie do końca
