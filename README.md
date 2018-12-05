@@ -6,5 +6,6 @@ wprowadzam zmiany
 3
 4
 IHIHIHIHIHIH
-koniec testu
+koniec testu 
+chyba nie do konca
 
